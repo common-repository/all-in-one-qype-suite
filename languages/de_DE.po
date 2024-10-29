@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/all-in-one-qype-suite\n"
+"POT-Creation-Date: 2009-02-25 07:59+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: all-in-one-qype-suite.php:183
+msgid "place not found"
+msgstr "Platz nicht gefunden"
+
+#: all-in-one-qype-suite.php:167
+msgid "All in one Qype Suite - Place Chooser"
+msgstr "All in one Qype Suite - Platz Suche"
+
+#: all-in-one-qype-suite.php:267
+msgid "Search"
+msgstr "Suche"
+
+#: all-in-one-qype-suite.php:268
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: all-in-one-qype-suite.php:283
+msgid "en"
+msgstr "de"
+
+#: all-in-one-qype-suite.php:232
+msgid "Qype Rating"
+msgstr "Qype Bewertung"
+
+#: all-in-one-qype-suite.php:232
+msgid "reviews"
+msgstr "Beiträge"
+
+#: php/admin/options.php:2
+msgid "All in One Qype Suite Configuration"
+msgstr "All in One Qype Suite Einstellungen"
+
+#: php/widgets/button-widget/widget-options.php:2
+#: php/widgets/user-widget/widget-options.php:8
+msgid "Username"
+msgstr "Benutzername"
+
+#: php/admin/options.php:15
+msgid "Qype Theme"
+msgstr "Design"
+
+#: php/admin/options.php:16
+msgid "Classic"
+msgstr "Qype Classic"
+
+#: php/admin/options.php:17
+msgid "New"
+msgstr "Qype"
+
+#: php/admin/options.php:21
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: php/standalone/index.php:27
+msgid "English"
+msgstr "English"
+
+#: php/standalone/index.php:27
+msgid "German"
+msgstr "Deutsch"
+
+#: php/standalone/search.php:16
+msgid "Link to a Qype Place from your website"
+msgstr "Link2Qype - verlinke ein Qype Platz von deiner Website"
+
+#: php/standalone/result.php:13
+msgid "Link text"
+msgstr "Individueller Linktext"
+
+#: php/standalone/result.php:17
+msgid "Style"
+msgstr "Style"
+
+#: php/standalone/result.php:21
+msgid "Language"
+msgstr "Spache"
+
+#: php/standalone/result.php:24
+msgid "Update"
+msgstr "Aktuallisieren"
+
+#: php/standalone/result.php:24
+msgid "New search"
+msgstr "Erneute Suche"
+
+#: php/standalone/result.php:29
+msgid "Preview"
+msgstr "Vorschau"
+
+#: php/standalone/result.php:32
+msgid "Copy & paste this HTML code to your website - and you get a beautiful link to the Qype place."
+msgstr "Kopiere diesen HTML Code in deine Website und schon ist der Qype Platz mit Vorschau Tooltip verlinkt."
+
+#: php/tabs/search-tab.php:6
+msgid "next page"
+msgstr "nächste Seite"
+
+#: php/tabs/search-tab.php:12
+msgid "previous page"
+msgstr "vorhergehende Seite"
+
+#: php/tabs/search-tab.php:12
+msgid "Page:"
+msgstr "Seite:"
+
+#: php/standalone/search.php:18
+msgid "First, search for the place on Qype. Second, mouseover placelink for a preview and click to get the code for your website"
+msgstr "Suche zuerst nach dem Qype Platz. Gehe dann mit der Maus über den Link für eine Vorschau, klicke den Link um den Code für deine Webseite zu bekommen"
+
+#: php/tabs/search-tab.php:12
+msgid "What?"
+msgstr "Was?"
+
+#: php/tabs/search-tab.php:16
+msgid "Where?"
+msgstr "Wo?"
+
+#: php/tabs/search-tab.php:20
+msgid "start search"
+msgstr "Suchen starten"
+
+#: php/tabs/search-tab.php:51
+msgid "Sorry, nothing found"
+msgstr "Nichts gefunden"
+
+#: php/standalone/search.php:56
+msgid "Examples"
+msgstr "Beispiele"
+
+#: php/standalone/search.php:57
+msgid "Do you know"
+msgstr "Kennst du schon"
+
+#: php/standalone/search.php:57
+msgid "or my Favorite"
+msgstr "oder mein Lieblingsplatz"
+
+#: php/tabs/favorites-tab.php:3
+msgid "Pick a Qype place from your favorites"
+msgstr "Wähle ein Qype Platz aus deinen Favoriten"
+
+#: php/tabs/favorites-tab.php:28
+msgid "Sorry, you have no favorite places yet"
+msgstr "Keine Favoriten gefunden"
+
+#: php/tabs/search-tab.php:6
+msgid "Search for the place on Qype you like to add"
+msgstr "Suche nach Qype Plätze"
+
+#: php/widgets/button-widget/widget-display.php:1
+msgid "'s reviews on"
+msgstr "'s Beträge bei"
+
+#: php/widgets/button-widget/widget-display.php:2
+msgid "on Qype"
+msgstr "auf Qype"
+
+#: php/widgets/button-widget/widget-options.php:9
+msgid "Size"
+msgstr "Größe"
+
+#: php/widgets/button-widget/widget-options.php:10
+msgid "Large"
+msgstr "Groß"
+
+#: php/widgets/button-widget/widget-options.php:11
+msgid "Medium"
+msgstr "Mittel"
+
+#: php/widgets/button-widget/widget-options.php:12
+msgid "Small"
+msgstr "Klein"
+
+#: php/widgets/city-widget/widget-options.php:2
+#: php/widgets/user-widget/widget-options.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: php/widgets/city-widget/widget-options.php:8
+msgid "City"
+msgstr "Stadt"
+
+#: php/widgets/city-widget/widget-options.php:14
+#: php/widgets/user-widget/widget-options.php:14
+msgid "Reviews count"
+msgstr "Anzahl Beiträge"
+
+#: php/widgets/city-widget/widget-options.php:20
+#: php/widgets/user-widget/widget-options.php:20
+msgid "Show ratings"
+msgstr "Zeige Bewertung"
+
+#: php/widgets/user-widget/widget-display.php:8
+msgid "I am"
+msgstr "Ich bin"
+
+#: php/widgets/user-widget/widget-display.php:8
+msgid "on"
+msgstr "bei"
+
+#. Plugin Name of an extension
+msgid "All in One Qype Suite"
+msgstr "All in One Qype Suite"
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/all-in-one-qype-suite/"
+msgstr ""
+
+#. Description of an extension
+msgid "All in one Qype Suite \"Qype-ifys\" your Blog! Add beautiful tooltip-links to Qype Places, auto-geotag your post & pimp the sidebar with 3 different Qype Widgets"
+msgstr "All in One Qype Suite \"Qype-ified\" dein Blog! Kinderleicht kannst du nun zu Qype Plätzen linken und die 3 Qyoe WIdgets in deine Sidebar einbauen"
+
+#. Author of an extension
+msgid "Christoph Büttner"
+msgstr "Christoph Büttner"
+

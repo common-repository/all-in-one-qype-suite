@@ -1,0 +1,169 @@
+/* global */
+#cluetip-close img {
+  border: 0;
+}
+#cluetip-title {
+  overflow: hidden;
+}
+
+#cluetip-title #cluetip-close {
+  float: right;
+  position: relative;
+}
+
+#cluetip-waitimage {
+  width: 43px;
+  height: 11px;
+  position: absolute;
+  background-image: url(../imgs/wait.gif);
+}
+
+.cluetip-arrows {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: -11px;
+  height: 22px;
+  width: 11px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+#cluetip-extra {
+  display: none;
+}
+/***************************************
+   =cluetipClass: 'default' 
+-------------------------------------- */
+
+.cluetip-default {
+  background-color: #d9d9c2;
+}
+.cluetip-default #cluetip-outer {
+  position: relative;
+  margin: 0;
+  background-color: #FF0033;
+}
+
+.cluetip-default h3#cluetip-title {
+  text-align: left;	
+  margin: 0 0 5px;
+  padding: 0 5px;
+  font-size: 1.1em;
+  font-weight: normal;
+  background-color: #fff;
+  color: #fff;
+}
+
+
+#cluetip-title div {
+  background-repeat: no-repeat;
+  background-position: 0px 0px;  
+  height: 31px;
+  width: 250px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+
+#cluetip-title div.en {
+  background-image: url(../imgs/new/qype_logo_en.png);
+}
+
+#cluetip-title div.de {
+  background-image: url(../imgs/new/qype_logo_de.png);
+}
+
+.cluetip-default #cluetip-title a {
+  color: #d9d9c2;
+  font-size: 0.95em;
+}  
+.cluetip-default #cluetip-inner {
+  text-align: left;
+  padding: 10px;
+  font-size: 0.95em;
+  background-color: #DAF8FF;
+}
+.cluetip-default div#cluetip-close { 
+  text-align: right;
+  margin: 0 5px 5px;
+  
+}
+
+/* default arrows */
+
+.clue-right-default .cluetip-arrows {
+  background-image: url(../imgs/darrowleft.gif);
+}
+.clue-left-default .cluetip-arrows {
+  background-image: url(../imgs/darrowright.gif);
+  left: 100%;
+  margin-right: -11px;
+}
+.clue-top-default .cluetip-arrows {
+  background-image: url(../imgs/darrowdown.gif);
+  top: 100%;
+  left: 50%;
+  margin-left: -11px;
+  height: 11px;
+  width: 22px;  
+}  
+.clue-bottom-default .cluetip-arrows {
+  background-image: url(../imgs/darrowup.gif);
+  top: -11px;
+  left: 50%;
+  margin-left: -11px;
+  height: 11px;
+  width: 22px;
+}
+
+.rates {
+  float: left;	
+  display: block;
+  height: 12px;
+  width: 66px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px 3px;
+  background-repeat: no-repeat;
+}	
+
+.rating, .rating0 {
+   background-image: url(../imgs/new/rating_small_0.png);
+}   
+  
+.rating1 {
+   background-image: url(../imgs/new/rating_small_1.png);
+}
+
+.rating2 {
+   background-image: url(../imgs/new/rating_small_2.png);
+}
+
+.rating3 {
+   background-image: url(../imgs/new/rating_small_3.png);
+}
+
+.rating4 {
+   background-image: url(../imgs/new/rating_small_4.png);
+}
+
+.rating5 {
+   background-image: url(../imgs/new/rating_small_5.png);
+}
+
+.logo {
+   background-image: url(../imgs/qype_widget_logo.en.gif);		
+}
+
+
+.logo_de {
+   background-image: url(../imgs/qype_widget_logo.gif);		
+}
+	
+p.qtip {
+ display:inline; 
+ margin:0;
+ padding:0;
+ border: 0;	
+}

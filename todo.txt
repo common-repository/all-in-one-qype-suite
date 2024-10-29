@@ -1,0 +1,8 @@
+* manually Flush cash
+* design place serach/favorites
+* cleanup css
+* fix jquery dimensions bug
+* split main class in sperate classes
+* add qype-api to global reposity (github??)
+* extend qype-api to full sport
+* use global username setting

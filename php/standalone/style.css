@@ -1,0 +1,5 @@
+a.qt {position:relative;text-decoration:none;}
+a.qt span {display:none;top:10px;left:100px;width:270px;border:1px solid #dddddd;background:white;}
+a.qt .h {width:264px;background:white;padding:3px;border-bottom: 4px solid #FF0033;}
+a.qt .t {padding:3px;font: 10pt Arial;color:black;background-color:#DAF8FF;text-decoration:none;}
+a.qt:hover span {position:absolute;display:block;z-index:99;}
